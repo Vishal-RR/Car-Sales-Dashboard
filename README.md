@@ -1,8 +1,10 @@
 # Car-Sales-Dashboard  https://app.powerbi.com.mcas.ms/groups/me/reports/9c67dcf0-f646-412b-b201-3d26caa462ee/ReportSection?ctid=ff355289-721e-4dd7-a663-afec62ab9d54&experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource
 
 ## The OutComes of the Car Sales Dashboard
-Overview Page ![image](https://github.com/Vishal-RR/Car-Sales-Dashboard/assets/104256950/d58ae0db-980e-47ef-a22b-c710cf1427b8)
-Details Page ![image](https://github.com/Vishal-RR/Car-Sales-Dashboard/assets/104256950/08627406-9eb2-4463-89a5-26b76255fa37)
+##Overview Page##
+![image](https://github.com/Vishal-RR/Car-Sales-Dashboard/assets/104256950/d58ae0db-980e-47ef-a22b-c710cf1427b8)
+##Details Page##
+![image](https://github.com/Vishal-RR/Car-Sales-Dashboard/assets/104256950/08627406-9eb2-4463-89a5-26b76255fa37)
 
 
  
