@@ -1,7 +1,8 @@
 # Car-Sales-Dashboard
 
+## The OutComes of the Car Sales Dashboard
  
-#### Key Performance Indicators (KPIs) Requirements
+#### Key Performance Indicators (KPIs) 
  
 1. Sales Overview:
    - Year-to-Date (YTD) Total Sales: Total sales from the beginning of the current year to date.
@@ -23,7 +24,7 @@
  
 
  
-### Chart's Requirement
+### Chart's 
  
 1. YTD Sales Weekly Trend:
    - Display a line chart illustrating the weekly trend of Year-to-Date (YTD) sales.
